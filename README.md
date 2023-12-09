@@ -14,8 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<style>
+.center {
+  align: center
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+
+}
+
+  
+</style>
+
 <h1 align="center">Hi 👋, I'm Vijay Chollangi</h1>
-<h3 align="center">A passionate Java🍵 developer from India 👨‍💻</h3>
+<h3 align="center">A passionate Java🍵 developer from India 👨‍💻</h3> <br>
+<div align="center"  background-color: lightblue; >
+<center><img  width="400" height="400" alt="coding"  src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/8930b329502133.55f6b199518e9.gif"></center>
+</div>
+<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijaychollangi&label=Profile%20views&color=0e75b6&style=flat" alt="vijaychollangi" /> </p>
 
